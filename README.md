@@ -2,19 +2,23 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org/)
+[![Solutions](https://img.shields.io/badge/Solutions-Repo-blue.svg)](https://github.com/aarambh-darshan/rust-100-solutions)
 
 A comprehensive Rust interview preparation resource featuring:
 - **100 Coding Problems** with complete runnable solutions
 - **120 Theoretical Q&A** covering Rust concepts from basics to advanced
 
+> 🔗 **Practice Solutions**: [rust-100-solutions](https://github.com/aarambh-darshan/rust-100-solutions) - Fork it and solve problems yourself!
+
 ## ✨ Features
 
 - **100 Coding Problems** covering all major DSA topics
-- **120 Theory Q&A** - Ownership, Borroiwng, Lifetimes, Async, Macros, Unsafe, FFI
+- **120 Theory Q&A** - Ownership, Borrowing, Lifetimes, Async, Macros, Unsafe, FFI
 - **Complete Solutions** with `main()` function - copy to [Rust Playground](https://play.rust-lang.org/) and run instantly
 - **Step-by-step Explanations** with visual diagrams
 - **Progressive Hints** (3 hints per problem)
 - **Complexity Analysis** for all solutions
+
 
 ## 📁 Structure
 
