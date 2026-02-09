@@ -248,6 +248,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Darshan Vichhi** ([@aarambh-darshan](https://github.com/aarambh-darshan))
 
+## ☕ Support
+
+If you find this helpful, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aarambhdevhub)
+
 ---
 
 ⭐ **Star this repo if you find it helpful!**
