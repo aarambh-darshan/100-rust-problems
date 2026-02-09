@@ -3,11 +3,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org/)
 
-A comprehensive collection of 100 Rust coding interview problems, ranging from beginner to advanced difficulty levels. Each problem includes detailed descriptions, examples, constraints, hints, and complete runnable solutions.
+A comprehensive Rust interview preparation resource featuring:
+- **100 Coding Problems** with complete runnable solutions
+- **120 Theoretical Q&A** covering Rust concepts from basics to advanced
 
 ## ✨ Features
 
-- **100 Problems** covering all major DSA topics
+- **100 Coding Problems** covering all major DSA topics
+- **120 Theory Q&A** - Ownership, Borroiwng, Lifetimes, Async, Macros, Unsafe, FFI
 - **Complete Solutions** with `main()` function - copy to [Rust Playground](https://play.rust-lang.org/) and run instantly
 - **Step-by-step Explanations** with visual diagrams
 - **Progressive Hints** (3 hints per problem)
@@ -16,9 +19,13 @@ A comprehensive collection of 100 Rust coding interview problems, ranging from b
 ## 📁 Structure
 
 ```
-interview/
-├── problems/     # 100 problem descriptions with hints
+100-rust-problems/
+├── problems/     # 100 coding problem descriptions with hints
 ├── answers/      # Complete runnable solutions with explanations
+├── qa/           # 120 theoretical interview Q&A
+│   ├── 01_beginner.md      (Q1-40)
+│   ├── 02_intermediate.md  (Q41-80)
+│   └── 03_advanced.md      (Q81-120)
 ├── README.md     # This file
 └── LICENSE       # MIT License
 ```
@@ -30,6 +37,14 @@ interview/
 | 🟢 Beginner | 1-35 | 35 |
 | 🟡 Intermediate | 36-70 | 35 |
 | 🔴 Advanced | 71-100 | 30 |
+
+## 📚 Interview Q&A (120 Questions)
+
+| Level | Questions | Topics |
+|-------|-----------|--------|
+| 🟢 [Beginner](qa/01_beginner.md) | Q1-40 | Basics, Ownership, Borrowing, Structs, Enums, Error Handling |
+| 🟡 [Intermediate](qa/02_intermediate.md) | Q41-80 | Traits, Generics, Collections, Iterators, Closures, Concurrency, Smart Pointers |
+| 🔴 [Advanced](qa/03_advanced.md) | Q81-120 | Async/Await, Macros, Unsafe, FFI, Advanced Patterns, Testing |
 
 ---
 
