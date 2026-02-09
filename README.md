@@ -1,5 +1,7 @@
 # 🦀 100 Rust Problems
 
+![100 Rust Problems Banner](assets/image.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org/)
 [![Solutions](https://img.shields.io/badge/Solutions-Repo-blue.svg)](https://github.com/aarambh-darshan/rust-100-solutions)
